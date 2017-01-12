@@ -16,17 +16,17 @@ To get access token, follow instructions below:
 
 3. In "**Application**" choose your app, then in "**Get token**" choose "**Get User Access Token**". In the window select needed User Data Permissions and accept. 
 
-	** Now you have short-lived access token **
+	**Now you have short-lived access token**
 
 4. To get long-lived access token, click on the blue '**i**' and "**Open in Access Token Tool**". There you can click blue button "**Extend Access Token**". Copy your new access token.
 
-	** You received long-lived access token **
+	**You received long-lived access token**
 
 ### Requirements 
 
 * SPSS Modeler v18.0
-* SPSS Modeler '**[R Essentials](https://github.com/IBMPredictiveAnalytics/R_Essentials_Modeler/releases)**' plugin
-* R with package '**httr**'
+* SPSS Modeler "**[R Essentials](https://github.com/IBMPredictiveAnalytics/R_Essentials_Modeler/releases)**" plugin
+* R with package "**httr**"
 
 ### Example stream
 
