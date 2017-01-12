@@ -38,7 +38,8 @@ Because the node is not a true source node, a dummy, not empty 'User Input' node
 
 In the node window you must provide the access token that you received earlier.
 
-You can use ID of any public page. You can find Page ID in url to page. In example, link to IBM page (which PageID is "**IBM**"): https://web.facebook.com/IBM
+You can use ID of any public page. You can find Page ID in url to page (example below).
+In example, link to IBM page (which PageID is "**IBM**"): https://web.facebook.com/**IBM**
 You can also use special ID "**me**" to import data about pictures from owner of this access token.
 
 You can type in date information about desired photos. Photo update is any change or addition in photo information (description, backdated date, tags etc.)
@@ -58,7 +59,7 @@ Setting "**Post IDs**" can let you search for photos only in comments under spec
 The generated output contains:
 * unique ID of photo or comment (comment IDs on facebook usually contains '**_**' sign)
 * direct URL to photo file
-* photo description which is message attached to it (any '**\n**' sign is now "**<newline>**" - before change it caused the stream run forever)
+* photo description which is message attached to it (any '**\n**' sign is now "**\<newline>**" - before change it caused the stream run forever)
 * photo created date, which is date the photo or post containing the photo was posted first time on facebook
 * photo updated date, which is date of the last change of photo information (adding, deleting or changing info like tags, description etc.)
 * photo backdated date, which is specified by whom the photo was added (most likely date when photo was taken)
