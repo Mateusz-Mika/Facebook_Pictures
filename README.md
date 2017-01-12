@@ -39,7 +39,7 @@ Because the node is not a true source node, a dummy, not empty 'User Input' node
 In the node window you must provide the access token that you received earlier.
 
 You can use ID of any public page. You can find Page ID in url to page (example below).
-In example, link to IBM page (which PageID is "**IBM**"): https://web.facebook.com/**IBM**
+In example, link to IBM page (which PageID is "**IBM**"): https://web.facebook.com/IBM
 You can also use special ID "**me**" to import data about pictures from owner of this access token.
 
 You can type in date information about desired photos. Photo update is any change or addition in photo information (description, backdated date, tags etc.)
