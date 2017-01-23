@@ -1,3 +1,4 @@
+# FacebookPictures - v 1.0.0
 # Author: Mateusz Mika - IBM 2017
 
 packages <- function(x) {
