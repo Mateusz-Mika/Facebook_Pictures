@@ -1,6 +1,6 @@
 ### Import picture URLs from Facebook Page
 <p align="center">
-  <img src="img/fb1.png"/ width=300px>
+  <img src="default.png"/ width=320px>
 </p>
 This SPSS Modeler Node allows you to download information about pictures posted by public Facebook Page (such as "IBM"). Information include: direct URL to picture and link to place where picture is from, ID, dates, description and info about album where picture was posted (if any).
 
